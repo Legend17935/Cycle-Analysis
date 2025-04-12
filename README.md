@@ -1,5 +1,6 @@
 # Cycle-Analysis
 ### Data Cleaning Steps:
+
 1. **Read the Data**: 
    - Import CSV files for the 2019 Q1 and 2020 Q1 Divvy bike trips data using `read_csv()`.
    - Specify column types for accurate parsing of data, especially date-time columns.
