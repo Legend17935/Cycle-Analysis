@@ -1,4 +1,4 @@
-# Cycle-Analysis
+# Cycle Analysis
 ### Data Cleaning Steps:
 
 1. **Read the Data**: 
